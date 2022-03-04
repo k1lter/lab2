@@ -1,0 +1,7 @@
+#include <iostream>
+
+void main(void)
+{
+  setlocale(LC_ALL, "rus");
+  ctd::cout << "Привет, Мир!" << std::endl;
+}
