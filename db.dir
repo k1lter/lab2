@@ -1,0 +1,4 @@
+'hi_scores', (0, 6)
+'name', (512, 16)
+'player_name', (1024, 10)
+'score', (1536, 6)
